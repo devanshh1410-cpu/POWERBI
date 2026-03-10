@@ -50,4 +50,3 @@ Power BI Desktop organizes these connectors into the following searchable catego
 7-	Azure
 8-	Json
 
-8-	Rename Columns: Power Query will create Owner_Name.1 and Owner_Name.2. Double-click the headers to rename them to First Name and Last Name.
